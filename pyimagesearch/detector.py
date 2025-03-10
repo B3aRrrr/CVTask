@@ -1,6 +1,6 @@
 import torch
 from torch import nn
-from ..models.conv_models.base_model import SimpleBaseModel
+from models.conv_models.base_model import SimpleBaseModel
 
 from typing import Union,List
 import os
